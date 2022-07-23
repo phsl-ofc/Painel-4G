@@ -1,0 +1,10 @@
+body{
+    background-color:#242d4a;
+    color: white;
+    padding: 4px;
+    font-size: large;
+}
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+}
